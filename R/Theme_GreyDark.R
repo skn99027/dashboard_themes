@@ -93,7 +93,7 @@ theme_grey_dark <- shinyDashboardThemeDIY(
   ,sidebarTabRadiusHover = "5px"
 
   ### boxes
-  ,boxBackColor = "rgb(52,62,72)"
+  ,boxBackColor = "rgb(232,232,232)"
   ,boxBorderRadius = 5
   ,boxShadowSize = "0px 0px 0px"
   ,boxShadowColor = ""
