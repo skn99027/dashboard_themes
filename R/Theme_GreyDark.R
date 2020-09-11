@@ -38,7 +38,7 @@ theme_grey_dark <- shinyDashboardThemeDIY(
 
   ### general
   appFontFamily = "Arial"
-  ,appFontColor = "rgb(205,205,205)"
+  ,appFontColor = "rgb(107,107,107)"
   ,primaryFontColor = "rgb(255,255,255)"
   ,infoFontColor = "rgb(255,255,255)"
   ,successFontColor = "rgb(255,255,255)"
