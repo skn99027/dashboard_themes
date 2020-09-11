@@ -131,7 +131,7 @@ theme_grey_dark <- shinyDashboardThemeDIY(
 
   ### tables
   ,tableBackColor = "rgb(205,205,205)"
-  ,tableBorderColor = "rgb(190,190,190)"
+  ,tableBorderColor = "rgb(255,255,255)"
   ,tableBorderTopSize = 1
   ,tableBorderRowSize = 1
 
