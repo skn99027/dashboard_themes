@@ -59,7 +59,7 @@ theme_poor_mans_flatly <- shinyDashboardThemeDIY(
   ,headerBoxShadowSize = "0px 0px 0px"
 
   ### sidebar
-  ,sidebarBackColor = "rgb(44,62,80)"
+  ,sidebarBackColor = "rgb(64,82,80)"
   ,sidebarPadding = 0
 
   ,sidebarMenuBackColor = "inherit"
